@@ -1,1 +1,7 @@
-**He Kākano** is a resource consisting of aggregated genomic data representing genetic variation present in the whole genome sequences of 1000 individuals with Māori ancestry. It was created with the express purpose of delivering healthcare benefits for Māori communities by facilitating and enabling genomic diagnostics and research. Its use and security are controlled by a Governance body consisting of experts in indigenous genomics drawn from across participating communities. Access and use of the resource is strictly by application through this Governance body.
+Welcome to *A Home For Your Variome*, a population-specific genetic variation repository software system developed by the Wasserman Lab at the University of British Columbia in Vancouver, Canada.
+
+This software system is open source and available on GitHub: <https://github.com/wassermanlab/variome>
+
+Feel free to explore as long as you like. If you have any questions, suggestions, or comments you can contact us using the information under the Contact Us tab.
+
+Thank you for visiting our website and we look forward to hearing from you!
