@@ -1,6 +1,10 @@
 # Contact Us
 
-Contact Details:
+\<Your project's contact details go here\>
 
-* email: [example@example.com](mailto:example@example.com)
-* phone: 123-456-6789
+* example email: [example@example.com](mailto:example@example.com)
+* example phone: 123-456-6789
+
+## Deployment support 
+
+For help, or to report bugs, please use GitHub Issues at https://github.com/wassermanlab/variome
